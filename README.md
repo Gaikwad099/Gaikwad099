@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-I am a Full Stack Developer specializing in MERN Stack and a Machine Learning intern, with experience in building scalable web applications and developing intelligent solutions.
+I am a Full Stack Developer specializing in MERN Stack and a Machine Learning , with experience in building scalable web applications and developing intelligent solutions.
 
 ### ✨ Fun Facts About Me
 -🌱 I’m currently expanding my knowledge in Machine Learning.
